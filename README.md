@@ -1,5 +1,5 @@
 - 👋 Hi, I’m chethan kumar 
-- 👀 I’m interested in learning new programing languges , exploring new technolpogies 
+- 👀 I’m interested in learning new programing languges , exploring new technologies 
 creating new projects
 - 🌱 I’m currently learning data analytics using python
 - 💞️ I’m looking to collaborate on data  analysis
