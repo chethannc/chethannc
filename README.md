@@ -9,9 +9,8 @@
 
 ### 💼 About Me
 - 💼 Working as a **Salesforce Developer** at **Kasetti Technologies**
-- 🕓 1.2 years experience building scalable Salesforce applications
-- 👨‍💻 I work on **Salesforce internal projects** using LWC, Apex, and Aura  
-- 🧩 I develop scalable Salesforce solutions across multiple teams  
+- 👨‍💻 Delivering custom Salesforce solutions for clients across industries
+- 📦 Experienced with client-specific LWC, Apex, and Aura development
 
 ---
 
