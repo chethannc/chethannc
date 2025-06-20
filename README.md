@@ -2,7 +2,7 @@
 <h3 align="center">Salesforce Developer at Kasetti Technologies | LWC ⚡ Apex 🧠 Git 📦 VS Code 🛠</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!;Salesforce+Developer;LWC+%7C+Apex+%7C+Git+%7C+VS+Code;Automating+Backups+Like+a+Boss" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!;Salesforce+Developer;LWC+%7C+Apex+%7C+Git+%7C+VS+Code" alt="Typing SVG" />
 </p>
 
 ---
